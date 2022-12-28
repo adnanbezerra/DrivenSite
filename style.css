@@ -1,0 +1,11 @@
+p {
+  font-size: 21px;
+}
+
+#paragrafoComId {
+  background-color: rgb(161, 161, 233);
+}
+
+.paragrafoComClass {
+  color: red;
+}
