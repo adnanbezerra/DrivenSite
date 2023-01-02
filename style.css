@@ -1,3 +1,7 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
 p {
   font-size: 21px;
 }
@@ -8,4 +12,32 @@ p {
 
 .paragrafoComClass {
   color: red;
+}
+
+img {
+  width: 50px;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  background-color: #ff3f95;
+  font-family: 'Anton', sans-serif;
+
+  color: #fff;
+  font-size: 20px;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 10px;
+  padding-left: 10px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 20px;
+  margin: 10px 0;
+  padding-left: 10px;
 }
